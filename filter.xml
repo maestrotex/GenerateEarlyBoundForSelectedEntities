@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<filter>
+  <entities>
+    <entity>soft_studentpaymentline</entity>
+    <entity>soft_student</entity>
+    <entity>soft_payment</entity>
+  </entities>
+</filter>
